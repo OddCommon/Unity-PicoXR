@@ -1,0 +1,21 @@
+{
+  "name": "com.oddcommon.picoxr",
+  "displayName": "OddCommon PicoXR",
+  "version": "1.2.4",
+  "unity": "2020.3",
+  "description": "Provides display and input support for Pico devices.",
+  "keywords": [
+    "picoxr",
+    "xr",
+    "vr",
+    "virtual",
+    "xreditorsubsystem"
+  ],
+  "dependencies": {
+    "com.unity.inputsystem": "1.0.2",
+    "com.unity.xr.management": "4.0.7",
+    "com.unity.ugui": "1.0.0",
+    "com.unity.subsystemregistration": "1.0.6",
+    "com.unity.xr.interaction.toolkit": "0.9.4-preview"
+  }
+}
