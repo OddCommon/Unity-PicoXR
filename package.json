@@ -1,6 +1,7 @@
 {
   "name": "com.oddcommon.picoxr",
   "displayName": "OddCommon PicoXR",
+  "author": { "name": "OddCommon", "email": "ellis@oddcommon.com", "url": "http://oddcommon.com" },
   "version": "1.2.4",
   "unity": "2020.3",
   "description": "Provides display and input support for Pico devices.",
