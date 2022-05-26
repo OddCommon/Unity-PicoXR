@@ -20,7 +20,7 @@ namespace Unity.XR.PXR
             {
                 projectConfig = CreateInstance<PXR_ProjectSetting>();
                 projectConfig.useContentProtect = false;
-                UnityEditor.AssetDatabase.CreateAsset(projectConfig, "Packages/com.unity.xr.picoxr/Assets/Resources/ProjectSetting.asset");
+                UnityEditor.AssetDatabase.CreateAsset(projectConfig, "Assets/Resources/ProjectSetting.asset");
             }
 #endif
             return projectConfig;
