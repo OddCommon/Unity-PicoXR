@@ -17,8 +17,8 @@ namespace Unity.XR.PXR.Editor
     {
         private class PXR_PackageMetadata : IXRPackageMetadata
         {
-            public string packageName => "PicoXR Plugin";
-            public string packageId => "com.unity.xr.picoxr";
+            public string packageName => "OddCommon PicoXR Plugin";
+            public string packageId => "com.oddcommon.picoxr"; //"com.unity.xr.picoxr";
             public string settingsType => "Unity.XR.PXR.PXR_Settings";
             public List<IXRLoaderMetadata> loaderMetadata => s_LoaderMetadata;
 
